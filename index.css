@@ -1,0 +1,13 @@
+body{
+
+  background:black;
+  color:white;
+  text-align: center;
+}
+
+.mySlides{
+  display:none;
+  height:500px;
+  width:500px;
+  align-content: center;
+}
